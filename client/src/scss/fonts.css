@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: local('Ubuntu-Light');
+  src: url("../assets/fonts/Ubuntu-Light.woff2") format("woff2");
+  src: url("../assets/fonts/Ubuntu-Light.woff") format("woff");
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local('Ubuntu-Regular');
+  src: url("../assets/fonts/Ubuntu-Regular.woff2") format("woff2");
+  src: url("../assets/fonts/Ubuntu-Regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local('Ubuntu-Medium');
+  src: url("../assets/fonts/Ubuntu-Medium.woff2") format("woff2");
+  src: url("../assets/fonts/Ubuntu-Medium.woff") format("woff");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local('Ubuntu-Bold');
+  src: url("../assets/fonts/Ubuntu-Bold.woff2") format("woff2");
+  src: url("../assets/fonts/Ubuntu-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local('Roboto-Medium');
+  src: url("../assets/fonts/Roboto-Medium.woff2") format("woff2");
+  src: url("../assets/fonts/Roboto-Medium.woff") format("woff");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local('WorkSans-Regular');
+  src: url("../assets/fonts/WorkSans-Regular.woff2") format("woff2");
+  src: url("../assets/fonts/WorkSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local('WorkSans-Bold');
+  src: url("../assets/fonts/WorkSans-Bold.woff2") format("woff2");
+  src: url("../assets/fonts/WorkSans-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
